@@ -1,3 +1,60 @@
+# To-Do App
+
+A simple, clean To-Do web application built with [Technology] that lets users add, check off, and delete tasks. This project was created following the YouTube tutorial: [insert video title & link]().  
+
+---
+
+## Table of Contents
+
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Getting Started](#getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+  - [Running the App Locally](#running-the-app-locally)  
+- [Usage](#usage)  
+- [Project Structure](#project-structure)  
+- [How It Works](#how-it-works)  
+- [Future Improvements](#future-improvements)  
+- [License](#license)  
+
+---
+
+## Features
+
+- Add tasks  
+- Mark tasks as completed  
+- Delete tasks  
+- Optionally: persist tasks (in local storage / remote backend)  
+- Clear all / filter by status (active / completed)  
+
+---
+
+## Tech Stack
+
+- Frontend: React (with Hooks) / Vanilla JS / [replace with correct framework]  
+- Styling: CSS / [or Tailwind / Bootstrap]  
+- Data persistence: Local Storage / API (if used)  
+- Build tools: [e.g. Vite / Create React App / Parcel / etc.]  
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (vXX or higher)  
+- npm or yarn package manager  
+
+### Installation
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
+   cd todo-app
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +125,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
